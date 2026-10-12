@@ -9,7 +9,3 @@ For the second circuit we did two and checks to make sure the levers we want on 
 And when the checks are met it opens the door.
 
 The third circuit has a lever going to a piston which stops the water flowing when turned on. And when the water flow is turned on it powers a light.
-
-##Pictures
-
-![image](pictures/Screenshot%20from%202026-10-12%2015-25-07.png?raw=true)

@@ -12,4 +12,4 @@ The third circuit has a lever going to a piston which stops the water flowing wh
 
 ##Pictures
 
-![image](pictures/Screenshot from 2026-10-12 15-25-07.png?raw=true)
+![image](pictures/Screenshot%20from%202026-10-12%2015-25-07.png?raw=true)
